@@ -1,0 +1,15 @@
+﻿{
+    "firstName": "José",
+    "lastName": "Bonitinho",
+    "addresses":[
+        {
+            "name": "Fox Brush Trail",
+            "number": "6978",
+            "state": "VA",
+            "city": "Moseley",
+            "zipCode": "23120",
+            "country": "EUA",
+            "type": "SHIPPING"
+        }
+    ]
+}
