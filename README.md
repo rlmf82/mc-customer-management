@@ -22,3 +22,7 @@ This application uses an H2 Database. You can access the structure through the U
 http://localhost:8081/v1/h2-console
 
 As the application is configured to use the Flyway, all structures and initial data will be inserted at the first execution.
+
+**============================== POSTMAN ==============================**
+
+There is a postman collection in the root of this project called **Customers.postman_collection.json**
